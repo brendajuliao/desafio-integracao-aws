@@ -57,7 +57,7 @@ Abaixo está o diagrama representando o fluxo de dados entre os serviços utiliz
 
 ## Autora
 **Brenda Julião**  
-💻 Engenharia de Computação — 3º semestre  
+💻 Engenharia de Computação — 4º semestre  
 📚 Projeto desenvolvido para o **Desafio de EC2 — DIO / AWS Cloud**
 # desafio-integracao-aws
 Desafio EC2 do Bootcamp CODEGIRLS AWS DIO
