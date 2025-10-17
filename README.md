@@ -1,4 +1,4 @@
-#Projeto: Integração de Serviços AWS — EC2, S3, DynamoDB e Glacier
+# Projeto: Integração de Serviços AWS — EC2, S3, DynamoDB e Glacier
 
 ##Descrição
 Este projeto foi desenvolvido como parte do **Desafio de Projeto da DIO**, com o objetivo de aplicar conhecimentos sobre **instâncias EC2** e sua integração com outros serviços da AWS.
@@ -7,14 +7,14 @@ A proposta é criar uma arquitetura que **simule o cadastro de clientes**, armaz
 
 ---
 
-##Arquitetura AWS
+## Arquitetura AWS
 Abaixo está o diagrama representando o fluxo de dados entre os serviços utilizados:
 
 ![Fluxo de Cadastro de Clientes](images/diagrama-cadastro-clientes.png)
 
 ---
 
-## 🔄 Fluxo de Funcionamento
+## Fluxo de Funcionamento
 
 1. **Cliente**  
    O cliente realiza uma requisição de cadastro, informando seus dados por meio de uma aplicação hospedada em uma instância **EC2**.
