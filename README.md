@@ -1,6 +1,6 @@
 # Projeto: Integração de Serviços AWS — EC2, S3, DynamoDB e Glacier
 
-##Descrição
+## Descrição
 Este projeto foi desenvolvido como parte do **Desafio de Projeto da DIO**, com o objetivo de aplicar conhecimentos sobre **instâncias EC2** e sua integração com outros serviços da AWS.
 
 A proposta é criar uma arquitetura que **simule o cadastro de clientes**, armazenando dados em diferentes serviços conforme sua finalidade — garantindo performance, segurança e otimização de custos.
